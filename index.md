@@ -2,36 +2,29 @@
 layout: default
 ---
 
-In the future, roads will host a complex mix of automated and manually operated vehicles, along with vulnerable road users. However, most automotive user interfaces and human factors research focus on single-agent studies, where one human interacts with one vehicle. Only a few studies incorporate multi-agent setups. This workshop aims to (1) examine the current state of multi-agent research in the automotive domain, (2) serve as a platform for discussion toward more realistic multi-agent setups, and (3) discuss methods and practices to conduct such multi-agent research. The goal is to synthesize the insights from the AutoUI community, creating the foundation for advancing multi-agent traffic interaction research. Full paper is available [here]({{ site.url }}{{ site.baseurl }}/assets/bazilinskyy2024always.pdf).
-
-<div class="row" style="text-align:center; margin-bottom: 0px;">
-  <iframe style="display:inline-block; width: 100%; height: 358px" src="https://www.youtube.com/embed/W2VWLYnTYrM?playlist=W2VWLYnTYrM&loop=1&autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
-
-Multi-agent crossing scenario in <a href="https://github.com/bazilinskyy/coupled-sim" target="_blank">coupled simulator</a>: AV passenger, MDV driver, and pedestrian (top); views of the three agents (bottom).
-  </div>
+In this workshop, we invite researchers, designers, and practitioners to explore together how life-cycle thinking can contribute to the design of intelligent, sustainable mobility solutions. While current research primarily focuses on making the usage period of such solutions more sustainable, we aim to take a broader perspective by integrating sustainability from the earliest design stages through to the end of the vehicle's life. Therefore, we will use speculative and critical design thinking to inspire and explore challenges as well as opportunities concerning sustainability at every stage of the life-cycle, from Design and Production to Usage, and End-Of-Life. Next, we will lead an ideation and prototyping session, followed by an interdisciplinary discussion reflecting on how intelligent technology can promote sustainable mobility. The outcomes will include potential design ideas and future research directions for incorporating life-cycle considerations into future mobility solutions. 
+ 
 
 # Location and schedule
 The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
- Activity | Time | Description                                                                                                                 
--------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------
- Introduction<img width=10/>      | 14:00–14:20<img width=70/>        | Introduction of workshop topics and instructions for interactive online questionnaire. Introductions of organizers and participants. 
- Session 1         | 14:20–15:00        | *Presentation*: Existing multi-agent automotive research.                                                                     
- Coffee break      | 15:00–15:15        | Live demo of the coupled simulator and networking.                                                   
- Session 2         | 15:15–16:30        | *Group work 1*: Do we need multi-agent automotive research?                                                                   
- Coffee break      | 16:30–16:45        | Live demo of the coupled simulator and networking.                                                   
- Session 3         | 16:45–17:30        | *Group work 2*: How can we advance the state of multi-agent automotive research?                                              
- Closing           | 17:30–18:00        | Presentations of group work activities and wrap-up. Collection of the expression of interest to contribute to the positioning paper. 
+ Time | Description                                                                                                                 
+--------------------|--------------------------------------------------------------------------------------------------------------------------------------
+ 09:00-09:15<img width=70/>        | Introduction of workshop topics. Introductions of organizers and participants. 
+09:15-09:30       | Introduction to the life-cycle of a car.                                                                  
+ 09:30-10:15       | Inspiration & exploration of challenges and opportunities for each life-cycle stage.                                                   
+10:15-10:30       |  Coffee break                                                                 
+10:30-11:00       | Ideation & prototyping sustainable solutions for each life-cycle stage                                              
+10:00-11:30        | Group presentations and joint reflections                                              
+11:30-12:00       | Wrap-up and discussion around future research opportunities
 
 # Organisers
-## Pavlo Bazilinskyy
+## Melanie Berger
 
-{:.organiser-photo}
-![Pavlo Bazilinskyy]({{ site.url }}{{ site.baseurl }}/assets/pavlo-bazilinskyy.jpg)
+ 
+iMes Solutions GmbH, Burghausen, Germany ([melanie.berger@imes-solutions.com](mailto:melanie.berger@imes-solutions.com)).
 
-Department of Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands ([p.bazilinskyy@tue.nl](mailto:p.bazilinskyy@tue.nl)).
-
-Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-driven interaction between automated vehicles and other road users. He finished his PhD at TU Delft in auditory feedback for automated driving as a Marie Curie Fellow, where he also worked as a postdoc. He was the head of data research at NEXTdriver. Pavlo is a treasurer of the Marie Curie Alumni Association (MCAA) and was a director of the Research and Innovation unit of the Erasmus Mundus Association (EMA).
+Melanie Berger leads the department of Innovation and Design at iMes Solutions GmbH. Her current research focuses on designing intelligent user interfaces for various stakeholders in the automotive industry.
 
 ## Patrick Ebel
 
@@ -40,58 +33,35 @@ Pavlo Bazilinskyy is an assistant professor at TU Eindhoven focusing on AI-drive
 
 ScaDS.AI, Leipzig University, Leipzig, Germany.
 
-Patrick Ebel is a Junior Research Group Leader at the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) at Leipzig University. He received his PhD. in Computer Science from the University of Cologne and his MSc in Automotive Systems from the TU Berlin. His research focuses on the analysis of large naturalistic driving data and computational models for human-vehicle interaction.
+Patrick Ebel leads the Junior Research Group at ScaDS.AI, Leipzig University. His research is positioned at the intersection of machine learning, human-computer interaction, and mobility, and focuses on the development of computational models that simulate human-like interaction behavior.
 
-## Francesco Walker
+## Ignacio Alvarez
 
-{:.organiser-photo}
-![Francesco Walker]({{ site.url }}{{ site.baseurl }}/assets/francesco-walker.jpg)
+Technische Hochschule Ingolstadt, Ingolstadt, Germany.
 
-Cognitive Psychology, Leiden University, Leiden, The Netherlands.
+Ignacio Alvarez is Professor of Human-centered Intelligent Systems at the Technische Hochschule Ingolstadt and Principal Research Scientist at Intel Labs. His research focus is at the intersection of automotive systems, artificial intelligence, and human-computer interaction.  
 
-Francesco Walker is an assistant professor at Leiden University (NL). He received his PhD from the University of Twente (NL), with a dissertation focused on the assessment and calibration of driver trust in automated vehicles. In Leiden he founded the HAT Lab, a research group that studies how Humans interact with Art and emerging Technologies.
+## Andreas Riener
+ 
+Technische Hochschule Ingolstadt, Ingolstadt, Germany.
 
-## Debargha Dey
+Andreas Riener is a Professor for Human-Machine Interaction and VR at Technische Hochschule Ingolstadt with co-affiliation at the CARISSMA Institute of Automated Driving. His research interests include HF/ergonomics, adaptive UIs, driver state assessment, and trust/acceptance/ethics in mobility applications. Andreas is on the SC of ACM AutomotiveUI, chair of the German ACM SIGCHI chapter, and SC chair of ``Mensch und Computer'' (the German CHI).
 
-{:.organiser-photo}
-![Debargha Dey]({{ site.url }}{{ site.baseurl }}/assets/debargha-dey.jpg)
+## Shadan Sadeghian
 
-Information Science, Cornell Tech, New York, NY, USA.
+ 
+University of Siegen, Siegen, Germany
 
-Debargha Dey is a postdoctoral researcher at Cornell Tech, with a research focus on human-automation interaction. He received his PhD in Industrial Design from TU Eindhoven and has 8+ years of experience in the domain of human factors for automated driving and traffic behavior.
+Shadan Sadeghian is an Assistant Professor leading the Interactive Autonomous Systems group at the University of Siegen, Germany. Her research focuses on designing user experiences and interactions with automated systems, including robots, AI-driven systems, and automated vehicles. She explores approaches that balance pragmatic (performance-oriented) and hedonic (experience-oriented) qualities in interacting with automation. Since 2016, she has served in several chairing roles (e.g., general chair in 2021) and as a steering committee member in Automotive UI. 
 
-## Tram Thi Minh Tran
+## Philipp Wintersberger
 
-{:.organiser-photo}
-![Tram Thi Minh Tran]({{ site.url }}{{ site.baseurl }}/assets/tram-tran.jpg)
+ 
 
-Sydney School of Architecture, Design and Planning, The University of Sydney, Sydney, Australia.
+IT:U Austria, Linz, Austria.
 
-Tram Thi Minh Tran is a postdoctoral researcher at the University of Sydney, Australia. She holds both her Master’s and PhD degrees from the same university. Her research explores the applications and implications of emerging technologies, with a particular focus on AR/VR and autonomous mobility.
+Philipp Wintersberger is a Full Professor of Intelligent User Interfaces at the Interdisciplinary Transformation University in Linz, Austria. His research addresses human-machine cooperation in safety-critical AI-driven systems. He is the founding chair of ACM SIGCHI Austria, and his research contributions have received several awards from venues such as ACM CHI, AutomotiveUI, and Interact.
 
-## Hyochang Kim
 
-{:.organiser-photo}
-![Hyochang Kim]({{ site.url }}{{ site.baseurl }}/assets/hyochang-kim.jpg)
 
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyochang Kim is a research director at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Industrial Engineering from Yonsei University. His research focuses on effective interaction methods tailored to specific contexts, with a particular emphasis on AI and autonomous vehicles. He has a special interest in natural communication methods between humans and AI.
-
-## Hyungchai Park 
-
-{:.organiser-photo}
-![Hyungchai Park ]({{ site.url }}{{ site.baseurl }}/assets/hyungchai_park.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyungchai Park is a research director at the Stanford Center at the Incheon Global Campus. He received his Ph.D. in Mechanical Engineering from Stanford University. His research focuses on the integrated analysis of data from vehicles, drones, and urban infrastructure within smart cities.
-
-## Hyunmin Kang
-
-{:.organiser-photo}
-![Hyunmin Kang]({{ site.url }}{{ site.baseurl }}/assets/hyunmin-kang.jpg)
-
-Stanford Center at the Incheon Global Campus, Stanford University, South Korea.
-
-Hyunmin Kang is a research scientist at Stanford Center at the Incheon Global Campus. He received his Ph.D. in Cognitive Engineering from Yonsei University. His research interests include human-computer interaction, autonomous systems, and cognitive ergonomics, with a particular focus on improving the usability and safety of emerging technologies.
+ 
