@@ -6,7 +6,6 @@ In this workshop, we invite researchers, designers, and practitioners to explore
  
 
 # Location and schedule
-The workshop (W11) will take place on 22 September 2024, 14:00–18:00 in **room 382**. See full AutoUI programme [here](https://www.auto-ui.org/24/program).
 
  Time | Description                                                                                                                 
 --------------------|--------------------------------------------------------------------------------------------------------------------------------------
