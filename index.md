@@ -27,9 +27,7 @@ Melanie Berger leads the department of Innovation and Design at iMes Solutions G
 
 ## Patrick Ebel
 
-{:.organiser-photo}
-![Patrick Ebel]({{ site.url }}{{ site.baseurl }}/assets/patrick-ebel.jpg)
-
+ 
 ScaDS.AI, Leipzig University, Leipzig, Germany.
 
 Patrick Ebel leads the Junior Research Group at ScaDS.AI, Leipzig University. His research is positioned at the intersection of machine learning, human-computer interaction, and mobility, and focuses on the development of computational models that simulate human-like interaction behavior.
